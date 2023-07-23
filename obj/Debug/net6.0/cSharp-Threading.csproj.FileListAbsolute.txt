@@ -1,0 +1,15 @@
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\bin\Debug\net6.0\cSharp-Threading.exe
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\bin\Debug\net6.0\cSharp-Threading.deps.json
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\bin\Debug\net6.0\cSharp-Threading.runtimeconfig.json
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\bin\Debug\net6.0\cSharp-Threading.dll
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\bin\Debug\net6.0\cSharp-Threading.pdb
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\obj\Debug\net6.0\cSharp-Threading.csproj.AssemblyReference.cache
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\obj\Debug\net6.0\cSharp-Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\obj\Debug\net6.0\cSharp-Threading.AssemblyInfoInputs.cache
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\obj\Debug\net6.0\cSharp-Threading.AssemblyInfo.cs
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\obj\Debug\net6.0\cSharp-Threading.csproj.CoreCompileInputs.cache
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\obj\Debug\net6.0\cSharp-Threading.dll
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\obj\Debug\net6.0\refint\cSharp-Threading.dll
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\obj\Debug\net6.0\cSharp-Threading.pdb
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\obj\Debug\net6.0\cSharp-Threading.genruntimeconfig.cache
+C:\Users\TRA\source\repos\cSharp-Threading\cSharp-Threading\obj\Debug\net6.0\ref\cSharp-Threading.dll
